@@ -16,7 +16,7 @@
   "gnetId": null,
   "graphTooltip": 0,
   "id": 10,
-  "iteration": 1582023509561,
+  "iteration": 1590574232217,
   "links": [
     {
       "icon": "info",
@@ -30,7 +30,7 @@
   ],
   "panels": [
     {
-      "content": "<div class=\"text-center dashboard-header\">\n  <span>SeaDataCloud Accounting Dashboard</span>\n</div>",
+      "content": "<div class=\"text-center dashboard-header\">\n  <span>Dataset Accounting Dashboard</span>\n</div>",
       "datasource": null,
       "gridPos": {
         "h": 2,
@@ -949,7 +949,7 @@
     ]
   },
   "timezone": "",
-  "title": "SeaDataCloud Accounting",
+  "title": "Dataset Accounting Dashboard",
   "uid": "7G6idC2Wz",
   "version": 18
 }
